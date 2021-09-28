@@ -1,6 +1,8 @@
-### Hi there 👋
+# <center>👋  Hi there 👋</center>
+I'm Frank ! 
 
-
+- 🌱 I’m currently learning : Java、Spring boot、vue
+- 📫 How to reach me: lefty21050@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank0321)
 
