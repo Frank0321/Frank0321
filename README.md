@@ -1,8 +1,13 @@
 # <center>👋  Welcome to Frank Github 👋</center>
-I'm Frank ! 
+## I'm Frank ! 
+####  I'm a Java Programmer in Taiwan
 
-- 🌱 I’m currently learning : Java、Spring boot、vue
-- 📫 How to reach me: lefty21050@gmail.com
+🌱 I’m currently learning : Java、Spring boot、vue
+
+⚡ Kills : Java、Spring boot、vue
+
+📫 How to reach me: 
+- mail : lefty21050@gmail.com
 
 
 
