@@ -2,8 +2,6 @@
 ## I'm Frank ! 
 ####  I'm a Java Programmer in Taiwan
 
-🌱 I’m currently learning : Java、Spring boot、vue
-
 ⚡ Kills : Java、Spring boot、vue
 
 📫 How to reach me: 
@@ -17,6 +15,8 @@
 **Frank0321/Frank0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+🌱 I’m currently learning : Java、Spring boot、vue
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
