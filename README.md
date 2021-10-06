@@ -1,15 +1,45 @@
 # <center>👋  Welcome to Frank Github 👋</center>
 ## I'm Frank ! 
-####  I'm a Java Programmer in Taiwan
+####  I'm a Java Programmer in Taiwan :octocat: 
+ I am a full-stack Developer of web. I still learning new technology and skills of web.
 
-⚡ Kills : Java、Spring boot、vue
 
+## ⚡ Kills : 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank0321" align='right'/>
+
+<!-- <div style="width:50px; height:auto; display:inline-block"> -->
+<div>
+<b>back-end skill</b>
+  <li> Java </li>
+  <li> Servlet </li>
+  <li> Framework Struts 1.x </li>
+  <li> Spring boot </li>
+</div>
+<p></p>
+<!-- <div style="width:50px; height:auto; display:inline-block"> -->
+<div>
+<b>Front-end skill</b>  
+   <li> HTML5、CSS、JavaScript </li>
+   <li> JSP、EL、JSTL (Java) </li>
+   <li> vue </li>
+</div>  
+<p></p>
+<b> other </b>
+- SQL
+- Python
+
+
+
+### 🔧 Tools :
+- Eclipse
+- Oracle
+- interillJ
+  
 📫 How to reach me: 
 - mail : lefty21050@gmail.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank0321)
 
 <!--
 **Frank0321/Frank0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +56,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank0321)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Frank0321&theme=vue-dark)
 -->
