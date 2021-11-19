@@ -1,7 +1,7 @@
 # <center>👋  Welcome to Frank Github 👋</center>
 ## I'm Frank ! 
 ####  I'm a Java Programmer in Taiwan :octocat: 
- I am a full-stack Developer of web. I still learning new technology and skills of web.
+I still learning new technology and skills of web.
 
 
 ## ⚡ Kills : 
