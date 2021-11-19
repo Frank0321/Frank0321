@@ -35,8 +35,8 @@ Also made other side project by using different kills :
 </div>  
 <p></p>
 <b> other </b>
-- SQL
-- Python
+<li> SQL  </li>
+<li> Python  </li>
 
 
 
