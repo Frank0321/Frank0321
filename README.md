@@ -9,10 +9,10 @@ I made some side project to record learning about spring boot. Like :
 - [Spring Security](https://github.com/Frank0321/Spring_Security)
 
 Also made other side project by using different kills :
-- [taiwan_reservoir](https://github.com/Frank0321/taiwan_reservoir) : by using vue to show reservoir in Taiwan real-time
-- [vue-crud-complete](https://github.com/Frank0321/vue-crud-complete)  : by using vue to do CRUD
-- [JavaEEStrutsProject](https://github.com/Frank0321/JavaEEStrutsProject) : by using struts1 framework and JSP
-- [Contacts](https://github.com/Frank0321/Contacts) : by using vue and spring boot (not finish)
+- [taiwan_reservoir](https://github.com/Frank0321/taiwan_reservoir) : by using `vue` to show reservoir in Taiwan real-time
+- [vue-crud-complete](https://github.com/Frank0321/vue-crud-complete)  : by using `vue` to do CRUD
+- [JavaEEStrutsProject](https://github.com/Frank0321/JavaEEStrutsProject) : by using `struts1 framework` and `JSP`
+- [Contacts](https://github.com/Frank0321/Contacts) : by using `vue` and `spring boot` (not finish)
 
 
 ## ⚡ Kills : 
