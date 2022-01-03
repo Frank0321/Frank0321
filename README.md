@@ -44,7 +44,7 @@ Also made other side project by using different kills :
 ### 🔧 Tools :
 - Eclipse
 - Oracle
-- interillJ
+- interlliJ
   
 📫 How to reach me: 
 - mail : lefty21050@gmail.com
