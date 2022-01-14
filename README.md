@@ -5,7 +5,7 @@ I still learning new technology and skills of web.
 I made some side project to record learning about spring boot. Like :
 - [spring boot demo](https://github.com/Frank0321/spring-boot-demo)
 - [Spring JPA](https://github.com/Frank0321/SpringJPADemo)
-- [Spring AOP](https://github.com/Frank0321/AOP)
+<!-- - [Spring AOP](https://github.com/Frank0321/AOP) -->
 - [Spring Security](https://github.com/Frank0321/Spring_Security)
 
 Also made other side project by using different kills :
